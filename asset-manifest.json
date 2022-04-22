@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ronashand/mint/static/css/main.af624fd4.css",
+    "main.js": "/ronashand/mint/static/js/main.53af9dd3.js",
+    "static/media/testTv.png": "/ronashand/mint/static/media/testTv.999f89c395924ca811bf.png",
+    "index.html": "/ronashand/mint/index.html",
+    "main.af624fd4.css.map": "/ronashand/mint/static/css/main.af624fd4.css.map",
+    "main.53af9dd3.js.map": "/ronashand/mint/static/js/main.53af9dd3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af624fd4.css",
+    "static/js/main.53af9dd3.js"
+  ]
+}
